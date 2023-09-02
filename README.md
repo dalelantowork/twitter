@@ -1,12 +1,12 @@
-## Running Twitter
+### Running Twitter
 
-To run this on valet:
+To run this on laravel valet:
 
-clone this repo
-composer install
-create .env
-npm -i
-npm run dev
+- **clone this repo**
+- **composer install**
+- **create .env**
+- **npm -i**
+- **npm run dev**
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
